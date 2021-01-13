@@ -1,0 +1,5 @@
+ssh:
+  - name: "DEVICE1"
+    ip_address: "IP_ADDRESS"
+  - name: "DEVICE2"
+    ip_address: "IP_ADDRESS"
